@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.10.1",
+    "dotenv": "^16.3.1",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "@alchemy/aa-accounts": "^1.2.0",
+    "@alchemy/aa-alchemy": "^1.2.0",
+    "@alchemy/aa-core": "^1.2.0",
+    "viem": "^1.19.11"
+  },
+  "type": "module",
+  "target": "es2020",
+  "name": "alchemy-aa-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
